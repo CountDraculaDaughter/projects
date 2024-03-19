@@ -104,5 +104,6 @@ void serve_bob() {
 
 I noticed that once you choose Grilled Cheese Screenshot attached below, you will be asked to serve patrick, which is not hard
 <img width="535" alt="image" src="https://github.com/CountDraculaDaughter/projects/assets/155210038/8e194616-236d-4b58-9e74-5f84db24b615">
+
 Then basically you just need to cause a buffer overflow to call sigsegv_handler which will print the flag as shown
 <img width="517" alt="image" src="https://github.com/CountDraculaDaughter/projects/assets/155210038/c63e9e7a-c23e-4ea1-9a97-3e6bf7c7ac3e">
