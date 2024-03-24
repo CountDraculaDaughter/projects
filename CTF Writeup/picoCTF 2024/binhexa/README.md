@@ -1,6 +1,9 @@
 First thing is to do the nc connection nc titan.picoctf.net 50971, may change when its moved to picogym, also use the following links to make your math life easier
+
 Shifts: https://bit-calculator.com/bit-shift-calculator
+
 Binary math: https://www.calculator.net/binary-calculator.html?number1=11100001&c2op=%2B&number2=01110111&calctype=op&x=Calculate
+
 Hex calculator: https://www.calculator.net/hex-calculator.html
 
 First challenge is:
