@@ -25,11 +25,13 @@ Fourth Challenge:
 
 <img width="280" alt="image" src="https://github.com/CountDraculaDaughter/projects/assets/155210038/33a57409-a26a-4678-af1a-d38359fc0d79">
 
+For this one, we are doing are left binary shift, use the shift link for this
 
 Fifth Challenge:
 
 <img width="266" alt="image" src="https://github.com/CountDraculaDaughter/projects/assets/155210038/bbb20192-bebd-4302-9d66-a367d8d3ec67">
 
+For this one, we are doing multiplication, use the binary math link to do this one.
 
 Sixth Challenge:
 
@@ -38,6 +40,8 @@ Sixth Challenge:
 Last Challenge:
 
 <img width="314" alt="image" src="https://github.com/CountDraculaDaughter/projects/assets/155210038/73085007-16bb-4784-84d1-c0081e39e836">
+
+For this one, just put the binary or decimal number into the hex calculator and take the Hex.
 
 And heres the flag:
 
