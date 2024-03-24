@@ -37,6 +37,8 @@ Sixth Challenge:
 
 <img width="245" alt="image" src="https://github.com/CountDraculaDaughter/projects/assets/155210038/ff9f13f3-c2d1-4d89-bf07-445d5fa58587">
 
+For this one, we are doing addition, use the binary math link to do this one.
+
 Last Challenge:
 
 <img width="314" alt="image" src="https://github.com/CountDraculaDaughter/projects/assets/155210038/73085007-16bb-4784-84d1-c0081e39e836">
