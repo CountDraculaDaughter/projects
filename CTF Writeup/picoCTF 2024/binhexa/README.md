@@ -19,10 +19,12 @@ Third Challenge:
 
 <img width="270" alt="image" src="https://github.com/CountDraculaDaughter/projects/assets/155210038/691ebe5d-cfb5-4159-bfe6-d5468faec2f5">
 
-For this one, we are doing 
+For this one, we are doing are right binary shift, use the shift link for this
+
 Fourth Challenge:
 
 <img width="280" alt="image" src="https://github.com/CountDraculaDaughter/projects/assets/155210038/33a57409-a26a-4678-af1a-d38359fc0d79">
+
 
 Fifth Challenge:
 
