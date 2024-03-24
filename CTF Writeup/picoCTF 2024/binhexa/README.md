@@ -13,10 +13,13 @@ Second Challenge:
 
 <img width="232" alt="image" src="https://github.com/CountDraculaDaughter/projects/assets/155210038/dea6be1b-6bc1-411d-afa1-f737cf786bfd">
 
+For this one, we are just doing binary or ( 1 and 1 = 1, 1 and 0 = 1, 0 and 1 = 1, and 0 and 0 = 0)
+
 Third Challenge:
 
 <img width="270" alt="image" src="https://github.com/CountDraculaDaughter/projects/assets/155210038/691ebe5d-cfb5-4159-bfe6-d5468faec2f5">
 
+For this one, we are doing 
 Fourth Challenge:
 
 <img width="280" alt="image" src="https://github.com/CountDraculaDaughter/projects/assets/155210038/33a57409-a26a-4678-af1a-d38359fc0d79">
